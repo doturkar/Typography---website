@@ -13,7 +13,8 @@ h1 {
     padding-right: 10px;
     background-color: hotpink;
     background-image: url("https://images.pexels.com/photos/3411132/pexels-photo-3411132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-    background-size: cover;
+    background-size: 1260px 750px;
+    background-attachment: fixed;
     text-align: center;
 }
 
