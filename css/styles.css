@@ -6,8 +6,8 @@ h1 {
 }
 
 .homepage-hero {
-    height: 240px;
     padding-top: 100px;
+    padding-bottom: 100px;
     padding-left: 10px;
     padding-right: 10px;
     background-color: hotpink;
