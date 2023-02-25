@@ -14,6 +14,7 @@ h1 {
     background-color: hotpink;
     background-image: url("https://images.pexels.com/photos/3411132/pexels-photo-3411132.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-size: cover;
+    text-align: center;
 }
 
 .main-container {
