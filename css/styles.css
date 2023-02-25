@@ -1,7 +1,7 @@
 h1 {
     font-size: 80px;
     color: blue;
-    text-shadow: 2px 2px rgb(230, 242, 255); 
+    text-shadow: 2px 2px rgb(230, 242, 255);
     font-family: 'Labrada', serif;
 }
 
@@ -16,10 +16,12 @@ h1 {
 
 .main-container {
     padding: 20px;
+    margin: 0;
+    width: 800px;
 }
 
 footer {
     text-align: center;
-    background-color: #ddd;
-    padding: 10px;
+    background-color: #d5dd81;
+    padding: 20px;
 }
