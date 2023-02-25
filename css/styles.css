@@ -12,6 +12,7 @@ h1 {
     padding-left: 10px;
     padding-right: 10px;
     background-color: hotpink;
+    background-image: url(https://images.pexels.com/photos/6921010/pexels-photo-6921010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
 }
 
 .main-container {
@@ -25,3 +26,7 @@ footer {
     background-color: #d5dd81;
     padding: 20px;
 }
+img {
+    max-width: 100px;
+  }
+  
