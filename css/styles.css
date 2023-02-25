@@ -7,7 +7,6 @@ h1 {
 
 .homepage-hero {
     height: 240px;
-    text-align: center;
     padding-top: 100px;
     padding-left: 10px;
     padding-right: 10px;
@@ -21,7 +20,7 @@ h1 {
 .main-container {
     padding: 20px;
     margin: 0 auto;
-    width: 800px;
+    max-width: 800px;
 }
 
 footer {
@@ -32,13 +31,6 @@ footer {
 
 img {
     max-width: 100px;
-}
-
-.code-container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    text-align: center;
 }
 body {
     margin: 0;
