@@ -32,6 +32,12 @@ footer {
 img {
     max-width: 100px;
 }
+
 body {
     margin: 0;
+}
+
+.article-left,
+.article-right {
+    display: flex;
 }
